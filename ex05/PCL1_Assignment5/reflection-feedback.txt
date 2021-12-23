@@ -1,0 +1,2 @@
+a.) I enjoyed playing around with list comprehensions and exercise 6 posed an interesting challenge.
+b.) I spent about 45 minutes on this exercise.
